@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\bin\Debug\Consulta CEP.exe.config
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\bin\Debug\Consulta CEP.exe
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\bin\Debug\Consulta CEP.pdb
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\obj\Debug\Consulta CEP.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\obj\Debug\Consulta CEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\obj\Debug\Consulta_CEP.Form1.resources
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\obj\Debug\Consulta_CEP.Properties.Resources.resources
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\obj\Debug\Consulta CEP.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\obj\Debug\Consulta CEP.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\obj\Debug\Consulta CEP.exe
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\obj\Debug\Consulta CEP.pdb
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\bin\Debug\MosaicoSolutions.ViaCep.dll
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\Estudos a parte\Projetos pessoais\C#\Organizador curso\Consulta CEP\obj\Debug\Consulta CEP.csproj.CopyComplete
